@@ -14,7 +14,7 @@
 @media only screen and (max-width: 1023px) {
     
     body { font-size: 18px; }
-    section { padding: 60px 0;}
+    section { padding-bottom: 60px;}
     
     .long-copy {
         width: 80%;
@@ -48,7 +48,7 @@
 @media only screen and (max-width: 767px) {
     
     body { font-size: 16px; }
-    section {padding: 30px 0; }
+    section { padding-bottom: 30px; }
     .row,
     .hero-text-box{ padding: 0 4%; }   
     .hero-text-box { text-align: center; }
@@ -148,7 +148,7 @@
 
 /* small phones from  0 to 480px */
 @media only screen and (max-width: 669px) {
-    section { padding: 25px 0; }
+    section { padding-bottom: 25px; }
     .contact-form { width:  100%; }
     .section-plans .row { padding: 10px}  
     .section-plans .row .col:first-child { margin: 0 auto; }

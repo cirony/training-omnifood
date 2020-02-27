@@ -32,12 +32,16 @@
 }
 
 @media only screen and (max-width: 767px) {
-    .ribbon-right { line-height: 20px; }
+    .ribbon-right { 
+        line-height: 20px;
+        top: 15px;
+        padding: 0 3px 0 0;
+    }
     
     .ribbon-right:after {
-        border-top: 10px solid transparent;
-        border-bottom: 10px solid transparent;
-        border-right: 10px solid #e67e22;
+        border-top: 9px solid transparent;
+        border-bottom: 9px solid transparent;
+        border-right: 9px solid #e67e22;
         left: -9.5px;
     }
 }
