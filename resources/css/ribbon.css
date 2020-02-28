@@ -33,7 +33,7 @@
 
 @media only screen and (max-width: 767px) {
     .ribbon-right { 
-        line-height: 20px;
+        line-height: 18px;
         top: 15px;
         padding: 0 3px 0 0;
     }
