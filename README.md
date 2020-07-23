@@ -6,4 +6,4 @@ This is a just a training project that results in a beutiful and simple responsi
 Built with HTML5, CSS3 and JQuery.
 
 
-
+https://cirony.github.io/training-omnifood/
